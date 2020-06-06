@@ -19,7 +19,7 @@ public class BinarySearchDemo {
     }
 
     /**
-     * 二分查找方法: 时间复杂度 O(log以2为底n的对数)  n就是数组或者集合的长度
+     * 二分查找方法: 时间复杂度 O(log n)  n就是数组或者集合的长度
      *  2^x = n,这里的x就是查找的次数
      * @param list 已经排过序的集合
      * @param num  查找的数
